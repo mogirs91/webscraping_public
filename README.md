@@ -1,2 +1,2 @@
 # webscraping_public
-Some examples of scrapping bots using Python (Selenium and BS4 libraries)
+Some examples of scrapping bots. Python (Selenium and BS4 libraries)
