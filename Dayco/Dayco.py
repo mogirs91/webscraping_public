@@ -35,12 +35,6 @@ global lenmodels
 global i
 global j
 
-print('hello world')
-print('sucessful token????')
-print ('are U ready to pull smth')
-print('2222')
-print('3334')
-
 def go_to_tovar(number):
     browser.set_window_size(1920,1080)
     browser.get('https://www.daycogarage.com/catalogue/ru-ru/search-product-by-code?a=1')
